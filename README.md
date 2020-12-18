@@ -1,4 +1,4 @@
 # hello-world
 
-Hi, my name is Abhishek
-passionate to learn new things.
+Hi, my name is Abhishek,
+I am passionate to learn new things.
